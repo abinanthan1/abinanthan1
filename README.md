@@ -1,5 +1,4 @@
-# Hi! I'm Abinanthan
-# 💫 About Me:
+# Hi! I'm Abinanthan 💫 
  💻 I’m a tech enthusiast passionate about analytical thinking.<br> 📊 I create insightful dashboards that turn data into meaningful insights.<br>👂 I believe in listening more and speaking with purpose.<br>📸 I love capturing nature, moments, and myself through photography.<br>
 
 
